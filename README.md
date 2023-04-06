@@ -16,7 +16,7 @@ Anything! I'm always happy to chat about software development, robotics, or any 
 
 ## 📫 How to reach me...
 
-Feel free to shoot me an email at chathuradevinda98@gmail.com or connect with me on LinkedIn. I'm always open to meeting new people and collaborating on cool projects!
+Feel free to shoot me an email at chathuradevinda.bc@gmail.com or connect with me on LinkedIn. I'm always open to meeting new people and collaborating on cool projects!
 
 ## ⚡ Fun fact...
 

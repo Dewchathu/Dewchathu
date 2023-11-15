@@ -23,7 +23,7 @@
 ***<p align = left></p>***
 ***<p align = left>## 📫 How to reach me...</p>***
 ***<p align = left></p>***
-***<p align = left>Feel free to shoot me an email at chathuradevinda98@gmail.com or connect with me on LinkedIn. I'm always open to meeting new people and collaborating on cool projects!</p>***
+***<p align = left>Feel free to shoot me an email at chathuradevinda.bc@gmail.com or connect with me on LinkedIn. I'm always open to meeting new people and collaborating on cool projects!</p>***
 ***<p align = left></p>***
 ***<p align = left>## ⚡ Fun fact...</p>***
 ***<p align = left></p>***

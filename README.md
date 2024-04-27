@@ -7,7 +7,7 @@
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->
-***<p align = left>I'm an undergraduate studying Computer Science at Sabaragamuwa University of Sri Lanka. As a full-stack developer, I'm passionate about building elegant, intuitive software that solves real-world problems.</p>***
+***<p align = left>I'm an undergraduate studying Computer Science at Sabaragamuwa University of Sri Lanka. As a mobile developer, I'm passionate about building elegant, intuitive software that solves real-world problems.</p>***
 ***<p align = left></p>***
 ***<p align = left>## 🔭 I'm currently working on...</p>***
 ***<p align = left></p>***

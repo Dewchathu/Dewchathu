@@ -15,7 +15,7 @@
 ***<p align = left></p>***
 ***<p align = left>## 🌱 I'm currently learning...</p>***
 ***<p align = left></p>***
-***<p align = left>All sorts of cool things! Right now, I'm diving deeper into front-end frameworks like React and Angular, and exploring the world of machine learning.</p>***
+***<p align = left>All sorts of cool things! Right now, I'm diving deeper into mobile developing frameworks like Flutter, and exploring the world of machine learning.</p>***
 ***<p align = left></p>***
 ***<p align = left>## 💬 Ask me about...</p>***
 ***<p align = left></p>***

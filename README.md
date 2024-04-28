@@ -3,7 +3,7 @@
 <!--END_SECTION:TITLE-->
 
 <!--START_SECTION:SUBTITLE-->
-### <p align = center>A passionate fullstack developer from Sri Lanka</p>
+### <p align = center>A passionate mobile app developer from Sri Lanka</p>
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->

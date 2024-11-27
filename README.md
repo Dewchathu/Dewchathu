@@ -24,14 +24,28 @@
 
 ---
 
-### 💻 Tech Stack  
+## <p align="center">🖥️ Tech Stack</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C/c.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%2B%2B/cpp.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%23/csharp.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML/html.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS/css.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter/flutter.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS/nodejs.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQL/sql.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino/arduino.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AdobeIllustrator/illustrator.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AdobePhotoshop/photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma/figma.svg" alt="Figma" width="40" height="40"/>
+</div>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,firebase,mysql,react" alt="Skills" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=photoshop,arduino,figma,git,vscode" alt="Tools" />
-</p>
 
 ---
 

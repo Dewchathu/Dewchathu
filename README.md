@@ -24,26 +24,29 @@
 
 ---
 
-## <p align="center">🖥️ Tech Stack</p>
+### <p>🖥️ Tech Stack</p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C/c.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%2B%2B/cpp.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%23/csharp.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML/html.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS/css.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter/flutter.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React/react.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS/nodejs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQL/sql.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino/arduino.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AdobeIllustrator/illustrator.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AdobePhotoshop/photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma/figma.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDb" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>
 </div>
 
 

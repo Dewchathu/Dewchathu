@@ -56,7 +56,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewchathu&layout=compact&theme=radical" alt="Chathura's Most Used Languages" height="150" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewchathu" alt="Chathura's Streak Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewchathu&" alt="Chathura's Streak Stats" /></p>
 
 ---
 

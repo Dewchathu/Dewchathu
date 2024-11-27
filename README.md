@@ -1,10 +1,15 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Dewchathu/Dewchathu/main/assets/banner.png" alt="Header Image" width="100%" />
+</div>
+
 <h1 align="center">Hi, I'm Chathura Devinda Gamage! 👋</h1>
 <h3 align="center">Passionate Full-Stack Mobile App Developer | Innovator | Tech Enthusiast</h3>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Dewchathu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
+
+<div align="center">
+    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding GIF" width="300" />
+</div>
 
 <p align="center">
     🌟 Building elegant software solutions that make life better.  
@@ -24,19 +29,10 @@
 ### 💻 Tech Stack  
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Flutter-%2342A5F5.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-%2300B4AB.svg?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-%233572A5.svg?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-%23f1e05a.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-%2361dbfb.svg?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,firebase,mysql,react" alt="Skills" />
 </p>
-
 <p align="center">
-    <img src="https://img.shields.io/badge/Adobe Photoshop-%2318152E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arduino-%2300979C.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-%2300d47b.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=photoshop,arduino,figma,git,vscode" alt="Tools" />
 </p>
 
 ---
@@ -51,12 +47,13 @@
 
 ### 📈 Stats  
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dewchathu&show_icons=true&theme=dark" alt="Chathura's GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewchathu&layout=compact&theme=dark" alt="Chathura's Most Used Languages" height="150" />
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewchathu&theme=dark&" alt="Chathura's Streak Stats" /></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dewchathu&show_icons=true&theme=radical" alt="Chathura's GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewchathu&layout=compact&theme=radical" alt="Chathura's Most Used Languages" height="150" />
+</div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewchathu&theme=radical" alt="Chathura's Streak Stats" />
+</div>
 
 ---
 
@@ -76,4 +73,6 @@ When I'm not coding, I enjoy:
 
 ---
 
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Dewchathu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>

@@ -15,12 +15,14 @@
 </p>
 
 ---
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
 ### 🚀 About Me  
 - 🎓 Undergraduate in **Computer Science** at Sabaragamuwa University of Sri Lanka.  
 - 🔧 Blending **Flutter** and **Machine Learning** to create impactful apps.  
 - 🌱 Continuously learning and growing with every project.  
-- 🛠️ Currently working on **NaviX**, an AI-powered guide for university students.  
+- 🛠️ Currently working on **NaviX**, an AI-powered guide for university students.
+  <br><br>
 
 ---
 
@@ -69,6 +71,7 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewchathu&theme=dark&hide_border=true" alt="Chathura's Streak Stats" />
 </div>
+
 
 ---
 

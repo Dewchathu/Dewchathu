@@ -59,7 +59,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewchathu" alt="Chathura's Streak Stats" />
 </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewchathu&" alt="dewchathu" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewchathu&" alt="dewchathu" /></p>
 
 ---
 

@@ -46,11 +46,11 @@
 ### 📈 Stats  
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dewchathu&show_icons=true&theme=radical" alt="Chathura's GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewchathu&layout=compact&theme=radical" alt="Chathura's Most Used Languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dewchathu&show_icons=true&theme=dark&hide_border=true" alt="Chathura's GitHub Stats" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dewchathu&theme=dark&hide_border=true" alt="Chathura's Most Used Languages" height="150" />
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewchathu&theme=radical" alt="Chathura's Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewchathu&theme=dark&hide_border=true" alt="Chathura's Streak Stats" />
 </div>
 
 ---

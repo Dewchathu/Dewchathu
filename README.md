@@ -83,5 +83,7 @@
 </div>
 <!--END_SECTION:README-STATS--><br/>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewchathu&show_icons=true&locale=en&layout=compact" alt="dewchathu" /></p>
+
 
 <!-- Created with CreateME profile readme generator-->

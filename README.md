@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Dewchathu/Dewchathu/main/assets/banner.jpg" alt="Header Image" width="100%" />
+    <img src="https://raw.githubusercontent.com/Dewchathu/Dewchathu/banner.jpg" alt="Header Image" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Chathura Devinda Gamage! 👋</h1>

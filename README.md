@@ -55,11 +55,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Dewchathu&show_icons=true&theme=radical" alt="Chathura's GitHub Stats" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewchathu&layout=compact&theme=radical" alt="Chathura's Most Used Languages" height="150" />
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewchathu" alt="Chathura's Streak Stats" />
-</p>
+</p> -->
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewchathu&" alt="dewchathu" /></p>
 
 ---
 

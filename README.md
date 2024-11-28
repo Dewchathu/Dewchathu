@@ -79,7 +79,7 @@
 
 <p align="center">
     <a href="mailto:chathuradevinda.bc@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/dewchathu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/chathura-devinda-73ab25229/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---

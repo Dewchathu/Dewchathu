@@ -15,7 +15,7 @@
 </p>
 
 ---
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Dewchathu/Dewchathu/blob/main/robot.gif?raw=true" width = 250px></picture>
 <br>
 ### 🚀 About Me  
 - 🎓 Undergraduate in **Computer Science** at Sabaragamuwa University of Sri Lanka.  
